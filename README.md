@@ -3,8 +3,7 @@ I'm a Frontend Developer based in Southern California and recently graduated wit
 
 🌱 Currently learning React and Git. Pinned projects coming soon! I'm still organizing my GitHub.
 
-<!--[Static Badge](https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge&link=www.linkedin.com/in/mialianip)-->
-[LinkedIn](https://www.linkedin.com/)
+[![Static Badge](https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge)](https://www.linkedin.com/in/mialianip)
 
 
 ### <ins>Technologies</ins>
