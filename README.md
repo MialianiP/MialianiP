@@ -1,7 +1,5 @@
 ## Hi, I'm Mialiani 👋
-I'm a Front-end Developer based in Southern California and recently graduated with a bachelor's degree in computer science. I enjoy transforming complex UI/UX designs into code. 
-
-🌱 Currently learning React and Git. Pinned projects coming soon! I'm still organizing my GitHub.
+I'm a freelance Web Developer, with a focus on front-end, and I'm based in Southern California. I enjoy building websites from the ground up.
 
 [![Static Badge](https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge)](https://www.linkedin.com/in/mialianip)
 
