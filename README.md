@@ -1,5 +1,7 @@
 ## Hi, I'm Mialiani 👋
-I'm a freelance Web Developer, with a focus on front-end, and I'm based in Southern California. I enjoy building websites from the ground up.
+I'm a freelance Web Developer, with a focus on front-end, and I'm based in Southern California. I enjoy building websites from the ground up. 
+
+Client projects are not made public on my github.
 
 [![Static Badge](https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge)](https://www.linkedin.com/in/mialianip)
 
